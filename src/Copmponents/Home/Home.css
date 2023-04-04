@@ -1,0 +1,69 @@
+.logos{
+background-color: deepskyblue;
+
+}
+
+
+.aboutus{
+    margin-top: 200px;
+}
+
+.whychooseus .container ,
+.aboutus .container{
+
+    transition: all 0.6s linear;
+    
+}
+.aboutus h2{
+    color: rgb(116, 64, 5);
+}
+.aboutus img{
+    border-radius: 10%;
+}
+.aboutus button{
+    width: 140px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: none;
+    padding :5px  16px;
+    box-sizing: content-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+.serv{
+    margin: 100px 0;
+    width: 100%;
+   height: 150px;
+   background-image: url('https://images8.alphacoders.com/430/thumb-1920-430830.jpg');
+   background-attachment: fixed;
+   background-position: center;
+}
+
+.whychooseus{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:100px ;
+}
+.whychooseus h2{
+    color: rgb(116, 64, 5);
+    font-weight:100px;
+
+}
+.whychooseus img{
+    border-radius: 10%;
+}
+.whychooseus button{
+    width: 140px;
+    height: 40px;
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    border: none;
+    padding :5px  16px;
+    box-sizing: content-box;
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
